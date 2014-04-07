@@ -13,3 +13,8 @@ Details and specs
 *Works with xmms2 using the python api
 *Music can be acquire by sponsors or using music under creative common license
 *Made using pygtk 
+
+---required_packages
+python-xmmsclient
+install xmms2
+run xmms2-launcher

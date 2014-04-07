@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-# example helloworld2.py
-
 import pygtk
 pygtk.require('2.0')
 import gtk
